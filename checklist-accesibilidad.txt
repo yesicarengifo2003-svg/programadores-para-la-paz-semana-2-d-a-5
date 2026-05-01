@@ -1,14 +1,14 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:yailin pasto
+Nombre del estudiante:yesicasirley
 Fecha:27/04/2026
-Nombre de la rama:yailin_pasto
+Nombre de la rama:yesicasirley-rengifo
 
 1. ¿El formulario tiene un título claro?
-Respuesta: Si, tiene el titulo "Participación Comunitaria".
+Respuesta: Si, ya que el titulo permite entender de lo que se esta hablando o lo se va realizar
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta: Si, se indica que es para recibir propuestas de la comunidad.
+Respuesta: Si, por que el formulario esta bien espesificado con el fin de recoger propuestas o las nesesidades de la comunidad
 
 3. ¿Cada campo tiene un label o etiqueta visible?
 Respuesta: Si cada campo de texto tiene su etiqueta vinculada.  
@@ -26,10 +26,10 @@ Respuesta: Si, se usa un área de texto amplia para el mensaje.
 Respuesta: Si, se informa que la participación es voluntaria y comunitaria.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta: Si, el botón dice "Participar", indicando claramente la accion.
+Respuesta: Si, el botón dice "Participar", indicando claramente la accion. de lo que se va realizar
 
 9. ¿La página se puede leer con facilidad?
-Respuesta: Si, gracias a uso de fuentes legibles y buen contraste de colores.
+Respuesta: Si, gracias a uso de fuentes legibles y buen contraste de colores.la pagina esta disponible para cualquier tipo de persona 
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
 Respuesta: Agregar descripciones de audio o compatibilidad total con los lectores de pantalla para personas con discapacidad visual. 
